@@ -1,0 +1,1 @@
+This final staging area design is tested and working for all the objects but the width in the middle of the staging area need to be increased a little bit to compensate for joint angle reachability errors 

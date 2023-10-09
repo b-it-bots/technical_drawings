@@ -1,0 +1,1 @@
+This design has holes to connect to the motor little offset(This **has to be fixed** before printing next)
